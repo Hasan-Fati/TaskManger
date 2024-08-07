@@ -1,0 +1,18 @@
+
+@media (max-width: 617px) {
+    .tasks-table {
+      max-width: 90%;
+    }
+}
+
+@media (max-width: 450px) {
+  .tasks-table {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 365px) {
+  .tasks-table {
+    max-width: 100%;
+  }
+}
